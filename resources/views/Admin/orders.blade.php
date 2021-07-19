@@ -30,9 +30,9 @@
                     <tr class="gradeX">
                         <td class="table_item">{{$i+1}}</td>
                         <td class="table_item">{{$i+2}}</td>
-                        <td class="table_item">nguyen xuan hjnh</td>
-                        <td class="table_item">hjnh@gmail.com</td>
-                        <td class="table_item">kim quan thach that ha noi</td>
+                        <td class="table_item">Dang Van Tien</td>
+                        <td class="table_item">tiendv@gmail.com</td>
+                        <td class="table_item">ung hoa ha noi</td>
                         <td class="table_item">097998778{{$i}}</td>
                         @if($i % 2 == 0)
                             <td class="table_item">Active</td>
